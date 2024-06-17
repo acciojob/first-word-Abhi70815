@@ -11,7 +11,7 @@ return '';
 		}
 		res+=s[i];
 	}
-	
+	return res;
 }
 
 // Do not change the code below
